@@ -1,0 +1,216 @@
+2023-10-28 14:28:50	weijia
+background:0.0  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:0.0  
+=====================================
+2023-10-28 14:29:17	weijia
+background:0.0  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:0.0  
+=====================================
+2023-10-28 14:29:56	weijia
+background:0.0  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:0.0  
+=====================================
+2023-10-28 14:30:26	weijia
+background:0.0  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:0.0  
+=====================================
+2023-10-28 14:30:50	weijia
+background:0.0  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:0.0  
+=====================================
+2023-10-28 14:31:08	weijia
+background:0.0  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:0.0  
+=====================================
+2023-10-28 14:31:33	weijia
+background:0.0  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:0.0  
+=====================================
+2023-10-28 14:31:46	weijia
+background:0.0  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:0.0  
+=====================================
+2023-10-28 14:32:13	weijia
+background:77.26935035711176  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.00024792158527324904  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:3.679504679937954  
+=====================================
+2023-10-28 14:33:46	weijia
+background:77.26935035711176  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.00024792158527324904  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:3.679504679937954  
+=====================================
+2023-10-28 14:43:12	weijia
+background:77.42292938886173  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.12258720380699437  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:3.6926436472699393  
+=====================================
+2023-10-28 14:51:54	weijia
+background:77.42455644801043  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.12275907727715724  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:3.692729310727981  
+=====================================
+2023-10-28 14:52:46	weijia
+background:77.42455644801043  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:65.38689746964006  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:6.800545424650024  
+=====================================
+2023-10-28 15:03:46	weijia
+background:78.26177013077073  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:58.92831087487139  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:6.532861000268672  
+=====================================
+2023-10-28 15:08:00	weijia
+background:78.26177013077073  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:58.92831087487139  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:6.532861000268672  
+=====================================
+2023-10-28 15:15:57	weijia
+background:77.6916129460265  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:62.2342679220648  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:6.663137184194825  
+=====================================
+2023-10-28 15:23:56	weijia
+background:78.07767846037905  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:60.76303294981202  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:6.611462448104337  
+=====================================
+2023-10-28 15:32:26	weijia
+background:78.03557298722242  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:60.14456595885924  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:6.58000661648008  
+=====================================
+2023-10-28 15:39:31	weijia
+background:78.51438938755038  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:57.5086374777034  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:6.4772869935835145  
+=====================================
+2023-10-28 15:48:35	weijia
+background:78.34154228838831  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:58.08056999719844  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:6.496291061218416  
+=====================================
+2023-10-28 15:56:52	weijia
+background:74.36832156766356  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:56.628792212883575  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:6.237957799073673  
+=====================================
+2023-10-28 16:03:50	weijia
+background:74.48517518988403  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:60.651763672725444  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:6.435092326790929  
+=====================================
+2023-10-28 16:11:35	weijia
+background:74.59517560760163  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:56.06968618271569  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:6.2221362757293965  
+=====================================
+2023-10-28 16:18:03	weijia
+background:74.5928828069258  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:57.37065404252482  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:6.283977945211934  
+=====================================
+2023-10-28 16:18:32	weijia
+background:74.5928828069258  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:57.37065404252482  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:6.283977945211934  
+=====================================
+2023-10-28 16:24:32	weijia
+background:74.64786674648849  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:56.15895175717694  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:6.2288961192221635  
+=====================================
+2023-10-28 16:24:56	weijia
+background:74.64786674648849  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:56.15895175717694  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:6.2288961192221635  
+=====================================
+2023-10-28 16:32:41	weijia
+background:74.50663091626619  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:59.935359570349455  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:6.401999546981697  
+=====================================
+2023-10-28 16:43:57	weijia
+background:73.31802130973489  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:3.4913343480826136  
+=====================================
+2023-10-28 16:57:30	weijia
+background:72.92238121338366  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:6.279549790760888  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:3.771520524006883  
+=====================================
+2023-10-28 17:11:59	weijia
+background:74.48517518988403  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:60.651763672725444  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:6.435092326790929  
+=====================================
+2023-10-28 17:21:08	weijia
+background:71.31953809662028  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:0.005322205811773308  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:3.3964219191634317  
+=====================================
+2023-10-28 17:21:48	weijia
+background:71.31953809662028  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:3.396168480791442  
+=====================================
+2023-10-28 17:22:28	weijia
+background:71.31953809662028  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:3.396168480791442  
+=====================================
+2023-10-28 18:10:38	weijia
+background:73.32028706729506  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:18.796347773893213  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:4.386506421008965  
+=====================================
+2023-10-28 18:25:16	weijia
+background:74.37221770355974  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:75.18725765358658  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:7.121879778911729  
+=====================================
+2023-10-28 18:32:00	weijia
+background:74.38773893487826  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:76.07695880586608  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:7.1649856067021105  
+=====================================
+2023-10-28 18:40:23	weijia
+background:74.3825613589307  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:75.06746732835965  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:7.116668032728112  
+=====================================
+2023-10-28 18:47:47	weijia
+background:74.41307142478178  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:78.60213132422878  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:7.286438226143359  
+=====================================
+2023-10-28 18:55:34	weijia
+background:74.38327862761983  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:79.3883890234557  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:7.32246036433693  
+=====================================
+2023-10-28 19:03:26	weijia
+background:74.34899104940052  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:78.80364545826116  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:7.292982690841033  
+=====================================
+2023-10-28 19:09:51	weijia
+background:74.30006340385758  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:79.46726665517335  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:7.3222538123348055  
+=====================================
+2023-10-28 19:21:15	weijia
+background:74.27137095473928  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:72.47071831419996  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:6.987718536616154  
+=====================================
+2023-10-28 19:28:49	weijia
+background:74.33849439877595  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:79.14712426565926  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:7.308838984020724  
+=====================================
+2023-10-28 19:34:37	weijia
+background:74.31117729202987  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:71.05843901114939  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:6.922362681103773  
+=====================================
+2023-10-28 19:42:52	weijia
+background:77.36066891988334  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:76.6232092125403  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:7.332565625353507  
+=====================================
+2023-10-28 19:48:43	weijia
+background:77.29462183530867  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:78.37222249756005  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:7.412706872993749  
+=====================================
+2023-10-28 19:57:38	weijia
+background:77.1895892295025  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:76.6437580276866  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:7.325397488437576  
+=====================================
+2023-10-28 20:06:08	weijia
+background:77.27128941642707  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:77.1536429842966  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:7.35356820955827  
+=====================================
+2023-10-28 20:13:24	weijia
+background:77.22963938473379  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:76.26107029963339  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:7.309081413541294  
+=====================================
+2023-10-28 20:19:59	weijia
+background:77.42789022823646  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:74.66867059112323  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:7.242693372350462  
+=====================================
+2023-10-28 20:26:37	weijia
+background:77.36069900747347  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:76.7726977874201  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:7.339685561661599  
+=====================================
+2023-10-28 20:33:10	weijia
+background:77.46918557040546  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:74.4615420415791  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:7.234796552951646  
+=====================================
+2023-10-28 20:44:22	weijia
+background:77.3702410554807  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:74.95737766301609  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:7.253696129452229  
+=====================================
+2023-10-28 20:54:10	weijia
+background:73.97821676763435  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:50.80658642210598  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:5.94213348522573  
+=====================================
+2023-10-28 21:03:02	weijia
+background:73.97322873009166  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:49.774643593325536  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:5.892755824924628  
+=====================================
+2023-10-28 21:10:28	weijia
+background:73.99517716067969  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:52.29265089127011  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:6.0137060977118955  
+=====================================
+2023-10-28 21:16:45	weijia
+background:74.13448820940967  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:62.028218658956135  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:6.483938422303133  
+=====================================
+2023-10-28 21:29:09	weijia
+background:74.10077744715701  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:59.28086018770045  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:6.3515065540408315  
+=====================================
+2023-10-28 21:37:12	weijia
+background:74.11535388883811  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:61.93116473537918  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:6.478405648772252  
+=====================================
+2023-10-28 21:44:43	weijia
+background:73.31802130973489  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:3.4913343480826136  
+=====================================
+2023-10-28 21:52:17	weijia
+background:74.43393396230397  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:69.65744963078325  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:6.861494456813677  
+=====================================
+2023-10-28 21:58:53	weijia
+background:74.37733822474719  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:67.13873897136523  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:6.738860818862495  
+=====================================
+2023-10-28 22:07:10	weijia
+background:73.47946233278344  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:41.70980548165461  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:5.485203229258955  
+=====================================
+2023-10-28 22:13:53	weijia
+background:73.420736835869  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:39.407377648084456  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:5.372767356378735  
+=====================================
+2023-10-28 22:19:52	weijia
+background:73.31802130973489  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:0.0  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:3.4913343480826136  
+=====================================
+2023-10-28 22:25:52	weijia
+background:73.39327801517486  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:24.95928225980688  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:4.683455251189607  
+=====================================
+2023-10-28 22:33:28	weijia
+background:73.40546102247822  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:22.486282279631045  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:4.566273490576632  
+=====================================
+2023-10-28 22:39:37	weijia
+background:73.40699153895777  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:25.174502675456274  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:4.69435686735305  
+=====================================
+2023-10-28 22:45:49	weijia
+background:73.37448800726173  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:16.617228488247257  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:4.285319833119475  
+=====================================
+2023-10-28 22:52:08	weijia
+background:73.4065940311362  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:22.688487233780478  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:4.575956250710318  
+=====================================
+2023-10-28 22:58:26	weijia
+background:73.41489123983106  aeroplane:0.0  bicycle:0.0  bird:0.0  boat:24.941840439940222  bottle:0.0  bus:0.0  car:0.0  cat:0.0  chair:0.0  cow:0.0  diningtable:0.0  dog:0.0  horse:0.0  motorbike:0.0  person:0.0  pottedplant:0.0  sheep:0.0  sofa:0.0  train:0.0  tvmonitor:0.0  mIoU:4.683653889512919  
+=====================================
