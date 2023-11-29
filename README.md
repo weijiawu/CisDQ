@@ -71,7 +71,7 @@ sh ./configs/coco/incremental-instance-segmentation/40-20/train.sh
 
 ## 📖BibTeX
 
-    
+```
 @article{he2023binarizing,
   title={Continual Learning for Image Segmentation with Dynamic Query},
   author={Weijia Wu, Yuzhong Zhao, Zhuang Li, Lianlei Shan, Hong Zhou, Mike Zheng Shou},
@@ -79,3 +79,4 @@ sh ./configs/coco/incremental-instance-segmentation/40-20/train.sh
   year={2023},
   publisher={IEEE}
 }
+```
